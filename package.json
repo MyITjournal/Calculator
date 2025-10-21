@@ -5,12 +5,25 @@
   "main": "MyCalculatorApp.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node MyCalculatorApp.js"
   },
-  "keywords": [],
+  "repository": [
+    "git",
+    "https://github.com/MyITjournal/SampleProject1.git"
+  ],
+  "keywords": [
+    "Calculator",
+    "Add",
+    "Multiply",
+    "Divide",
+    "Square",
+    "SquareRoot",
+    "Cube"
+  ],
   "author": "Ade-Adebayo",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.6.2"
+    "colors": "^1.4.0"
   }
 }
