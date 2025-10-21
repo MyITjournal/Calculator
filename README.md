@@ -2,7 +2,7 @@
 
 ## Details
 
-This is a simple calculator app project Node.js app.
+This is a simple calculator app with basic functions
 
 ## Features
 
