@@ -37,7 +37,7 @@ https://github.com/MyITjournal/Calculator.git
 
 3. Clone the repository.
 
-git clone https://github.com/MyITjournal/SampleProject1.git
+git clone https://github.com/MyITjournal/Calculator.git
 
 4. Install the dependences.
 
@@ -51,7 +51,8 @@ Production URL: http://localhost:3000/
 
 # Folder Structure
 
-CALCULATOR/
+```
+calculator/
 │
 ├── my_calc_modules
 │ ├── export.js
@@ -63,3 +64,4 @@ CALCULATOR/
 ├── package.json
 ├── README.md
 └── testing.js
+```
