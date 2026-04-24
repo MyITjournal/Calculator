@@ -15,8 +15,8 @@ import path from "path";
 console.log("\nWelcome to Ade's Basic Calculator");
 console.log("=================================\n");
 
-let num1 = 9;
-let num2 = 6;
+let num1 = 15;
+let num2 = 3;
 
 console.log(`${text()} ${addNos(num1, num2)}\n`);
 console.log(`${text()} ${subtractNos(num1, num2)}\n`);
